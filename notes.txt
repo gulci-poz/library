@@ -1,0 +1,20 @@
+Rozszerzenia do Brackets:
+- Delkos Dark Theme
+- Beautify, Ctrl + Shift + l - ładne formatowanie kodu
+- Brackets File Tabs, View -> Show Tabs
+- Brackets Icons, View -> Iionicons
+- Brackets Css Color Preview, View -> Enable Css Color Preview
+- Brackets Snippets (by edc)
+
+npm init
+npm install express --save
+^ - major version update, 4.xx.x
+~ - minor version update, 4.13.x
+node app.js
+po zdefiniowaniu skryptu start w package.json możemy użyć npm start
+www.bootstrapzero.com
+npm install bower -g
+bower init
+bower install bootstrap --save
+bower install font-awesome --save
+(bower install)
